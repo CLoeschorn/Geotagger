@@ -1,0 +1,12 @@
+Shared Preferences:
+http://junalontherun.com/2011/11/11/android-basic-login-example-with-shared-preference/
+viewing shared preferences files: http://stackoverflow.com/questions/11354904/view-an-android-apps-shared-preferences
+
+Converting images to JSON:
+http://mobile.cs.fsu.edu/converting-images-to-json-objects/
+
+Launch app to certain activity:
+http://stackoverflow.com/questions/7989197/launch-android-app-with-specific-activity
+
+Dialogs:
+http://developer.android.com/guide/topics/ui/dialogs.html#AlertDialog
